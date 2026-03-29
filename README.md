@@ -32,7 +32,11 @@ This repository contains a comprehensive Digital Literacy Portfolio developed to
 * **Part B:** Created a 5-question Digital Literacy Awareness Quiz using Google Forms.
 * **Live Form:** https://forms.gle/3mzP8w8yTH2epNBs7
 * **View:** [Navigate to task-3-platforms/](./task-3-platforms/)
-* <img width="1285" height="660" alt="image" src="https://github.com/user-attachments/assets/8c96b311-c68c-4e28-9f1f-8848405e73b9" />
+* **Google Form And Response Sheet Screenshots:**
+   
+ <img width="1285" height="660" alt="image" src="https://github.com/user-attachments/assets/8c96b311-c68c-4e28-9f1f-8848405e73b9" />
+ <img width="1092" height="599" alt="image" src="https://github.com/user-attachments/assets/f51faf2a-6757-4aae-a9c2-d45da683b873" />
+
 
 
 ### 📧 Task 4: Email Etiquette & Social Media
