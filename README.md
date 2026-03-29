@@ -31,7 +31,9 @@ This repository contains a comprehensive Digital Literacy Portfolio developed to
 * **Part A:** Completed a beginner-level coding challenge on HackerRank.
 * **Part B:** Created a 5-question Digital Literacy Awareness Quiz using Google Forms.
 * **Live Form:** https://forms.gle/3mzP8w8yTH2epNBs7
-* **View:** [Navigate to task-3-platforms/](./task-3-platforms/) 
+* **View:** [Navigate to task-3-platforms/](./task-3-platforms/)
+* <img width="1285" height="660" alt="image" src="https://github.com/user-attachments/assets/8c96b311-c68c-4e28-9f1f-8848405e73b9" />
+
 
 ### 📧 Task 4: Email Etiquette & Social Media
 * **Goal:** Apply professional email rules and responsible social media practices.
